@@ -32,4 +32,4 @@ void PrintArray(string[] array)
     Console.WriteLine();
 }
 PrintArray(array);
-PrintArray(newarray(array));
+PrintArray(newarray(array)); 
